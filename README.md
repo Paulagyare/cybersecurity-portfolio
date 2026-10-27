@@ -10,6 +10,10 @@ A 13-week project covering a segmented enterprise network, secure access, SOC mo
 
 **Explore:** [Read the project write-up](projects/enterprise-security-capstone/README.md) · [Visit my website](https://paulagyare.github.io/web_page/)
 
+### [Linux Security Operations and Git Practice](projects/linux-secops-toolkit/README.md)
+
+A Kali Linux project exploring account administration, Bash security auditing, and Git troubleshooting. The write-up includes verified user and group administration work and the project’s broader practice areas.
+
 ## Areas of interest
 
 Network security · SOC investigations · Threat detection · Incident response · Identity and access management
