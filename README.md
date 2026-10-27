@@ -14,6 +14,10 @@ A 13-week project covering a segmented enterprise network, secure access, SOC mo
 
 A Kali Linux project exploring account administration, Bash security auditing, and Git troubleshooting. The write-up includes verified user and group administration work and the project’s broader practice areas.
 
+## SOC investigations
+
+[Explore my SOC case studies](soc-investigations/README.md), including a sanitized inbound alert involving a hidden environment file.
+
 ## Areas of interest
 
 Network security · SOC investigations · Threat detection · Incident response · Identity and access management
